@@ -10,8 +10,8 @@
 	</a>
 </p>
 
-<p align="center">
+<!-- <p align="center">
 	<a href="https://vk.com/ozzy1991">
 		<img src="https://activity-graph.herokuapp.com/graph?username=nikolaykv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
 	</a>
-</p>
+</p> -->
