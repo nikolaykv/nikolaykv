@@ -5,7 +5,3 @@
 <p align="center">
 	<img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=nikolaykv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"/>
 </p>
-
-<p align="center">
-	<img src="https://activity-graph.herokuapp.com/graph?username=nikolaykv&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true"/>
-</p>
